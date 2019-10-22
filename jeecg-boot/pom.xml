@@ -17,7 +17,6 @@
 		<module>jeecg-boot-base-common</module>
 		<module>jeecg-boot-module-system</module>
         <module>jeecg-boot-module-tool</module>
-		<module>jeecg-boot-module-ai</module>
 	</modules>
 	
 	<distributionManagement>
